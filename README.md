@@ -9,7 +9,7 @@ This project implements a Bronze → Silver → Gold data pipeline using Databri
 - Gold: (to be implemented)
 
 
-The raw data consists of CSV files.These are not included in this repository.
+The raw data consists of CSV files. These are not included in this repository.
 Schema examples:
 - clientes.csv
 - productos.csv
