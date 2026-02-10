@@ -9,7 +9,7 @@ This project implements a Bronze → Silver → Gold data pipeline using Databri
 - Gold: BI-ready views: a wide ventas_gold (fact + dimensions) and aggregate views (sales by employee, product, store). Includes an employee validity flag to handle historical/offboarded IDs.
 
 
-The raw data consists of CSV files. These are not included in this repository.
+The raw data consists of sales data in CSV files. These are not included in this repository.
 Schema examples:
 - clientes.csv
 - productos.csv
